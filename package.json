@@ -1,0 +1,16 @@
+{
+  "name": "api-boilerplate-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "api-boilerplate": "./bin/api-boilerplate.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["boilerplate", "node", "api"],
+  "author": "Riyad Ahsan",
+  "license": "ISC",
+  "type": "commonjs"
+}
