@@ -5,9 +5,10 @@ echo "// *                                          *"
 echo "// *        SELECT FRAMEWORK TO USE          *"
 echo "// *                                          *"
 echo "// ********************************************"
-echo "1. Express"
+echo "FOR PRIVATE REPOSITORIES PLEASE ASK THE DEVELOPER TO ADD YOU AS A COLLABORATOR"
+echo "1. Express (PRIVATE)"
 echo "2. Hapijs"
-echo "3. NestJS"
+echo "3. NestJS (PRIVATE)"
 
 read -p "Enter the number of your choice (1/2/3): " framework_choice
 
